@@ -5,4 +5,6 @@ Table des codes ASCII (Affiche la liste complète des codes ASCII)
 Taille des variables (Indique la taille en mémoire de différents types de variables)
 Jeu de devinette (l'ordinateur choisit un nombre et vous devez le deviner)
 Triangle d'étoiles (Affiche un triangle à l'écran à l'aide de caractères '*')
-Quitter
+Quitter.
+
+TEST 
