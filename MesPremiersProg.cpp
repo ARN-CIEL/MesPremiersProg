@@ -1,20 +1,26 @@
-// MesPremiersProg.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
-//
+// Programme principal : Menu interactif pour sélectionner un programme
 
-#include <iostream>
+// Ce programme présente à l'utilisateur un menu de choix de programmes.
+// En fonction du choix de l'utilisateur, il appelle la fonction correspondante.
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+// Les programmes disponibles sont :
+// 1. Estimation du coût d'un abonnement téléphonique
+// 2. Calcul de caisse
+// 3. Affichage d'un caractère et de son code ASCII
+// 4. Table des codes ASCII
+// 5. Taille des variables
+// 6. Jeu de devinette
+// 7. Triangle d'étoiles
 
-// Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
-// Déboguer le programme : F5 ou menu Déboguer > Démarrer le débogage
 
-// Astuces pour bien démarrer : 
-//   1. Utilisez la fenêtre Explorateur de solutions pour ajouter des fichiers et les gérer.
-//   2. Utilisez la fenêtre Team Explorer pour vous connecter au contrôle de code source.
-//   3. Utilisez la fenêtre Sortie pour voir la sortie de la génération et d'autres messages.
-//   4. Utilisez la fenêtre Liste d'erreurs pour voir les erreurs.
-//   5. Accédez à Projet > Ajouter un nouvel élément pour créer des fichiers de code, ou à Projet > Ajouter un élément existant pour ajouter des fichiers de code existants au projet.
-//   6. Pour rouvrir ce projet plus tard, accédez à Fichier > Ouvrir > Projet et sélectionnez le fichier .sln.
+// Début du programme
+
+// Affichage du menu
+// Afficher "Veuillez choisir un programme :"
+// Afficher "1. Estimation du coût d'un abonnement téléphonique"
+// Afficher "2. Calcul de caisse"
+// Afficher "3. Affichage d'un caractère et de son code ASCII"
+// Afficher "4. Table des codes ASCII"
+// Afficher "5. Taille des variables"
+// Afficher "6. Jeu de devinette"
+// Afficher "7. Triangle d'étoiles"
